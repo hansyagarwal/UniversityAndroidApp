@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">UniversityApp</string>
-    <string name="title">Added via feature 2 branch</string>
+    <string name="title">updated via branch</string>
 </resources>
